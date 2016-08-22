@@ -22,7 +22,7 @@ on run (arguments)
 		end try
 		
 		set newWindow to (create window with default profile)
-		set session1 to current session of first window
+		set session1 to current session of newWindow
 		
 		-- split needed
 		if ((count of listOfHosts) is greater than 1) then
