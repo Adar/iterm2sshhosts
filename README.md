@@ -4,8 +4,7 @@ A project written by [Christian Senkowski](http://e-cs.co/).
 
 
 ## About
-Open ssh sessions in iterm2 or iterm3 (tested with Build 3.0.20160821-nightly), split windows.
-
+Open ssh sessions in iterm2 or iterm3 (tested with Build 3.0.20160821-nightly until Build 3.1.5.beta.2), split windows.
 
 
 ## known bugs
