@@ -8,7 +8,7 @@ Open ssh sessions in iterm2 or iterm3 (tested with Build 3.0.20160821-nightly un
 
 
 ## known bugs
-See [issues page](https://github.com/Adar/iterm2sshhosts/issues)
+See [issues page](https://github.com/c9pr3/iterm2sshhosts/issues)
 Several 3.x versions (nightly builds) of iTerm have had problems with this
 script or/and scripting in general. Please keep this in mind when trying
 nightly builds. Thanks.
